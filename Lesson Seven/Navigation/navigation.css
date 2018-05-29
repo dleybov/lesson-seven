@@ -1,0 +1,9 @@
+div {
+	display: inline-block;
+	height: 25px;
+	text-align: center;
+	margin-top: 50px;
+	padding: 5px;
+}
+
+div:hover {text-decoration: underline;}
